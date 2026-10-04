@@ -1,3 +1,4 @@
 Team members: Triclusters and rzlfd
 Favorite programming language: Java
-Team motto: Foil fencing is good!
+Team motto: CS is the best, and foil fencing is good!
+
